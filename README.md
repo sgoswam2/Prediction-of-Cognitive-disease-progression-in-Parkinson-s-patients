@@ -3,3 +3,8 @@ Parkinson’s disease is classically defined as a movement disorder, patients ma
 
 # Project Contributors
 Soumya Goswami and Edgar Bernal
+
+# Code description
+ppmi_CognitionFactors.ipynb- Identifies the cognition features or biomarkers that affects the state (Normal, MCI, Dementia)
+ppmi_steady.ipynb          - Uses PPMI and steady dataset to understand the equivalence between UPDRS and MDS-UPDRS factors affecting cognition state
+PPMI_Sequential_modelling.ipynb -Uses sequential LSTM to predict on future cognition states from present cognition factors and present cognition states.
